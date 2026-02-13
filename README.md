@@ -1,22 +1,13 @@
-# YouTube Clone (HTML & CSS)
+# 🎥 YouTube Clone (HTML & CSS)
 
 A front-end clone of the YouTube homepage built using pure HTML and CSS.  
 This project focuses on layout structuring, Flexbox alignment, CSS Grid, and UI positioning techniques.
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 
 🔗 https://gurnoork-k.github.io/youtube-clone/
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
 
 ---
 
@@ -38,18 +29,7 @@ youtube-clone/
 
 ---
 
-## 🎯 Key Concepts Practiced
+## 👩‍💻 Author
 
-- Fixed positioning for header
-- CSS Grid using `fr` units
-- Flexbox alignment techniques
-- Tooltip creation with absolute positioning
-- Notification badge UI design
-- Clean folder architecture
-
----
-
-## 📈 Future Improvements
-
-- Fully responsive mobile layout
-- Add JavaScript functionalit
+Gurnoor Kaur
+BTech CSE Student | Frontend & Cybersecurity Enthusiast
