@@ -49,6 +49,13 @@ youtube-clone/
 
 ---
 
+## 📚 Learning Source
+
+This project was built as part of my frontend learning journey using resources from SuperSimpleDev.  
+I implemented and customized the layout to strengthen my understanding of HTML and CSS fundamentals.
+
+---
+
 ## 👩‍💻 Author
 
 Gurnoor Kaur
