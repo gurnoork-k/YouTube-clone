@@ -51,7 +51,7 @@ youtube-clone/
 
 ## 👩‍💻 Author
 
-Gurnoor Kaur
+Gurnoor Kaur  
 BTech CSE Student | Frontend & Cybersecurity Enthusiast
 
 ---
