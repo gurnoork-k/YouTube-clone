@@ -21,21 +21,21 @@ This project focuses on layout structuring, Flexbox alignment, CSS Grid, and UI 
 ---
 
 ## 📂 Project Structure
-
-youtube-clone/```
+```
+youtube-clone/
 │
-├── channels/```
-├── icons/```
-├── thumbnails/```
-├── styles/```
-│   ├── header.css```
+├── channels/
+├── icons/
+├── thumbnails/
+├── styles/
+│   ├── header.css
 │   ├── general.css
 │   ├── video.css
 │   └── sidebar.css
 │
 ├── youtube.html
 └── README.md
-
+```
 ---
 
 ## 🎯 Key Concepts Practiced
